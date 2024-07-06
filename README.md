@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Diğdem Orhan</h1>
 <h3 align="center">I am working to become a young backend developer.</h3>
-<img align="right" alt="developer" width="400" src="https://static.vecteezy.com/system/resources/previews/017/216/733/non_2x/asian-woman-working-on-laptop-woman-it-developer-programming-code-freelance-remote-working-vector.jpg">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=digdemorhan&label=Profile%20views&color=0e75b6&style=flat" alt="digdemorhan" /> </p>
 
@@ -13,6 +13,7 @@
 - 🌱 I’m currently learning **data analysis**
 
 - 💬 Ask me about **Java**
+<img align="right" alt="developer" width="400" src="https://static.vecteezy.com/system/resources/previews/017/216/733/non_2x/asian-woman-working-on-laptop-woman-it-developer-programming-code-freelance-remote-working-vector.jpg">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
