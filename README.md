@@ -1,4 +1,4 @@
-![Masterhead](https://static.vecteezy.com/system/resources/previews/017/216/733/non_2x/asian-woman-working-on-laptop-woman-it-developer-programming-code-freelance-remote-working-vector.jpg)
+![Masterhead](https://img.freepik.com/free-vector/cute-girl-hacker-operating-laptop-cartoon-vector-icon-illustration-people-technology-isolated-flat_138676-9487.jpg?w=740&t=st=1720280113~exp=1720280713~hmac=0b094ed6c6e799477970c5eb4ba521695f754e4cd25c36c626902b2c3be72508)
 
 <h1 align="center">Hi 👋, I'm Diğdem Orhan</h1>
 <h3 align="center">I am working to become a young backend developer.</h3>
