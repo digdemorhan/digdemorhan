@@ -1,10 +1,9 @@
+![Masterhead](https://static.vecteezy.com/system/resources/previews/017/216/733/non_2x/asian-woman-working-on-laptop-woman-it-developer-programming-code-freelance-remote-working-vector.jpg)
+
 <h1 align="center">Hi 👋, I'm Diğdem Orhan</h1>
 <h3 align="center">I am working to become a young backend developer.</h3>
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=digdemorhan&label=Profile%20views&color=0e75b6&style=flat" alt="digdemorhan" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=digdemorhan" alt="digdemorhan" /></a> </p>
 
 - 🔭 I’m currently working on **web backend**
 
@@ -13,7 +12,6 @@
 - 🌱 I’m currently learning **data analysis**
 
 - 💬 Ask me about **Java**
-<img align="right" alt="developer" width="400" src="https://static.vecteezy.com/system/resources/previews/017/216/733/non_2x/asian-woman-working-on-laptop-woman-it-developer-programming-code-freelance-remote-working-vector.jpg">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,3 +26,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=digdemorhan&show_icons=true&locale=en" alt="digdemorhan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=digdemorhan&" alt="digdemorhan" /></p>
+
