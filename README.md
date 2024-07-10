@@ -6,17 +6,6 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on <b>web backend<br><br></b>📫 How to reach me <b>dorhan23@gmail.com<br><br></b>🌱 I’m currently learning <b>data analysis<br><br></b>💬 Ask me about <b>Java</b></p>
-
-###
-
-<h4 align="left">Profile Views:</h4>
-
-###
-
-<div align="left">
-  <img src="https://profile-counter.glitch.me/digdemorhan/count.svg?"  />
-</div>
 
 ###
 
