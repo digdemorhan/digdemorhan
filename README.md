@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">I am working to become a young backend developer.</h3>
+<h3 align="left">I am working to become a web backend developer.</h3>
 
 ###
 
