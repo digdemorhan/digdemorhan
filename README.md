@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">I am working to become a web backend developer. I am professionally interested in Java and Java technologies.</h3>
+<h3 align="left">I am working to become a backend developer.</h3>
 
 ###
 
