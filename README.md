@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">I am working to become a backend developer.</h3>
+<h3 align="left">I am working to become a backend developer. I am currently doing my master's degree and working on Deep Learning. I am developing myself in the field of artificial intelligence.</h3>
 
 ###
 
