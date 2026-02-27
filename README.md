@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋, I'm Diğdem Orhan.</h2>
+
 
 ###
 
